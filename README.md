@@ -10,10 +10,9 @@
 ## PURPOSE
   - Help junior and entry level developers reach out to more experienced developers by learning from them and asking questions
   - Form a community and connect with like-minded android developers
-  - Acknowledge the efforts of android developers
   
 ## NOTE
-  This is just a random list (in no particular order) based on those who have helped me personally and has helped or is helping the community at large 
+  This is just a random list (in no particular order) based on those who have helped me personally and have helped or is currently helping the community at large 
   
   (There are so many kick-ass android developers doing great stuff that I may not know and thus, aren't on the list...yet)
 
@@ -30,6 +29,7 @@
   |  Alex Chiou |  <a href="https://twitter.com/alexchiou">Here</a>  | ---  |  --- | <a href="https://www.linkedin.com/in/alexander-chiou">Here</a> | <a href="https://github.com/Gear61">Here</a> | 
   | Rahul Pandey |  <a href="https://twitter.com/rpandey1234">Here</a>  | <a href="https://www.youtube.com/c/RahulPandeyrkp">Here</a>  | --- | <a href="https://www.linkedin.com/in/rpandey1234">Here</a> | <a href="https://github.com/rpandey1234">Here</a> | 
    | Harun Wangereka |  <a href="https://twitter.com/wangerekaharun">Here</a>  | <a href="https://www.youtube.com/channel/UC0Sbc-pfrc580pbWwUzQ4Bg">Here</a>  | <a href="https://www.instagram.com/wangerekaharun">Here</a> | <a href="https://www.linkedin.com/in/harun-wangereka">Here</a> | <a href="https://github.com/wangerekaharun">Here</a> | 
+ | Ravi Tamada |  <a href="https://mobile.twitter.com/ravitamada" target="_blank">Here</a>  | <a href="https://www.youtube.com/user/androidhive" target="_blank">Here</a>  | <a href="https://www.instagram.com/ravitamada" target="_blank">Here</a> | <a href="https://www.linkedin.com/in/ravi-tamada"  target="_blank">Here</a> | <a href="https://github.com/ravi8x" target="_blank">Here</a> | 
   
 
  
