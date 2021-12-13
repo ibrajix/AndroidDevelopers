@@ -29,7 +29,9 @@
   |  Alex Chiou |  <a href="https://twitter.com/alexchiou">Here</a>  | ---  |  --- | <a href="https://www.linkedin.com/in/alexander-chiou">Here</a> | <a href="https://github.com/Gear61">Here</a> | 
   | Rahul Pandey |  <a href="https://twitter.com/rpandey1234">Here</a>  | <a href="https://www.youtube.com/c/RahulPandeyrkp">Here</a>  | --- | <a href="https://www.linkedin.com/in/rpandey1234">Here</a> | <a href="https://github.com/rpandey1234">Here</a> | 
    | Harun Wangereka |  <a href="https://twitter.com/wangerekaharun">Here</a>  | <a href="https://www.youtube.com/channel/UC0Sbc-pfrc580pbWwUzQ4Bg">Here</a>  | <a href="https://www.instagram.com/wangerekaharun">Here</a> | <a href="https://www.linkedin.com/in/harun-wangereka">Here</a> | <a href="https://github.com/wangerekaharun">Here</a> | 
- | Ravi Tamada |  <a href="https://mobile.twitter.com/ravitamada" target="_blank">Here</a>  | <a href="https://www.youtube.com/user/androidhive" target="_blank">Here</a>  | <a href="https://www.instagram.com/ravitamada" target="_blank">Here</a> | <a href="https://www.linkedin.com/in/ravi-tamada"  target="_blank">Here</a> | <a href="https://github.com/ravi8x" target="_blank">Here</a> | 
+ | Ravi Tamada |  <a href="https://mobile.twitter.com/ravitamada">Here</a>  | <a href="https://www.youtube.com/user/androidhive">Here</a>  | <a href="https://www.instagram.com/ravitamada">Here</a> | <a href="https://www.linkedin.com/in/ravi-tamada" >Here</a> | <a href="https://github.com/ravi8x">Here</a> | 
+ | Jaewoong Eum |  <a href="https://twitter.com/github_skydoves">Here</a>  |  ---  | <a href="https://www.instagram.com/jw_eum">Here</a> | <a href="https://www.linkedin.com/in/skydoves" >Here</a> | <a href="https://github.com/skydoves">Here</a> | 
+ 
   
 
  
