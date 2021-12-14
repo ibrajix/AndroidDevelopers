@@ -74,7 +74,7 @@
  ## NB
  This list is constantly been updated
  
- ## CONNECT [New]
+ ## CONNECT [NEW]
  
  Lets all connect on slack: one workspace for just android related stuffs (jobs, questions, interview preparation e.t.c)
 
