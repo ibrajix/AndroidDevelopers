@@ -53,7 +53,16 @@
  | Adam McNeilly  | <a href="https://twitter.com/AdamMc331/">Here</a> | <a href="https://www.youtube.com/c/AdamMcNeilly/">Here</a> | --- |  <a href="https://www.linkedin.com/in/adammcneilly/">Here</a> | <a href="https://github.com/AdamMc331/">Here</a> |
  | Elvis Chidera | <a href="https://twitter.com/elvisnchidera/">Here</a> | <a href="https://www.youtube.com/channel/UCC_MzeBWb-NhrlNk72innAA/">Here</a> | <a href="https://www.instagram.com/elvischidera/">Here</a>  |  <a href="https://www.linkedin.com/in/elvischidera/">Here</a> | <a href="https://github.com/elvis10ten/">Here</a> |
  | Ian Lake | <a href="https://twitter.com/ianhlake/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/ian-lake-41090711/">Here</a> | <a href="https://github.com/ianhanniballake/">Here</a> |
-
+ | Saket Narayan   | <a href="https://twitter.com/saketme/">Here</a> | --- |  --- |  <a href="https://www.linkedin.com/in/saketme/">Here</a> | <a href="https://github.com/saket/">Here</a> |
+ | Nick Butcher   | <a href="https://twitter.com/crafty/">Here</a> | <a href="https://www.youtube.com/c/nickbutcher/">Here</a> | --- |  <a href="https://www.linkedin.com/in/nick-butcher-5831582/">Here</a> | <a href="https://github.com/nickbutcher/">Here</a> |
+ | Rodrigo Dominguez   | <a href="https://twitter.com/RodrigoMartinD/">Here</a> | <a href="https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA/">Here</a> | --- |  <a href="https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/">Here</a> | <a href="https://github.com/rodrigomartind/">Here</a> |
+ | Colin White   | <a href="https://twitter.com/colinwhi/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/colinrtwhite/">Here</a> | <a href="https://github.com/colinrtwhite/">Here</a> |
+ | Ben Weiss   | <a href="https://twitter.com/keyboardsurfer/">Here</a> | --- | <a href="https://www.instagram.com/keyboardsurfer/">Here</a> |  <a href="https://www.linkedin.com/in/keyboardsurfer/">Here</a> | <a href="https://github.com/keyboardsurfer/">Here</a> |
+ | Katherine Kuan   | <a href="https://twitter.com/katherine_kuan/">Here</a> | <a href="https://www.youtube.com/c/whatkatfoundout/">Here</a> | <a href="https://www.instagram.com/kat.kuan/">Here</a> |  <a href="https://www.linkedin.com/in/katherine-kuan/">Here</a> | <a href="https://github.com/kkuan2011/">Here</a> |
+ | Craig Russell   | <a href="https://twitter.com/trionkidnapper/">Here</a> | --- | --- | --- | <a href="https://github.com/cdrussell/">Here</a> |
+ | Ben Weiss   | <a href="https://twitter.com/keyboardsurfer/">Here</a> | --- | <a href="https://www.instagram.com/keyboardsurfer/">Here</a> |  <a href="https://www.linkedin.com/in/keyboardsurfer/">Here</a> | <a href="https://github.com/keyboardsurfer/">Here</a> |
+ | Ryan Harter | <a href="https://twitter.com/rharter/">Here</a> | --- | --- |  --- | <a href="https://github.com//rharter/">Here</a> |
+ | Kristina Simakova | <a href="https://twitter.com/KristiSimakova/">Here</a> | --- |  --- |  <a href="https://www.linkedin.com/in/ksimakova/">Here</a> | <a href="https://github.com/Kristina-Simakova/">Here</a> |
+ | Juhani Lehtimäki | <a href="https://twitter.com/lehtimaeki/">Here</a> | --- |  --- |  <a href="https://www.linkedin.com/in/juhani-lehtim%C3%A4ki-78b327186/">Here</a> | <a href="https://github.com/JuhaniLehtimaeki/">Here</a> |
  
-  
-  
+ 
