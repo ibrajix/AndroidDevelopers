@@ -78,6 +78,6 @@
  
  Lets all connect on slack: one workspace for just android related stuffs (jobs, questions, interview preparation e.t.c)
 
-> <a href="https://join.slack.com/t/androiddevelo-g1o8434/shared_invite/zt-109v8bkpw-r8qt1K_ADYJ84CffEB~~HQ"><b>JOIN HERE</b></a> 
+> <a href="https://join.slack.com/t/androiddevs-1/shared_invite/zt-109v8bkpw-r8qt1K_ADYJ84CffEB~~HQ"><b>JOIN HERE</b></a> 
  
  
