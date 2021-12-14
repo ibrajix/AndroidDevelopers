@@ -12,7 +12,7 @@
   - Form a community and connect with like-minded android developers
   
 ## NOTE
-  This is just a random list (in no particular order) based on those who have helped me personally and have helped or is currently helping the community at large 
+  This is just a random list (in no particular order) based on those who have helped me personally and/or the community at large 
   
   (There are so many kick-ass android developers doing great stuff that I may not know and thus, aren't on the list...yet)
 
