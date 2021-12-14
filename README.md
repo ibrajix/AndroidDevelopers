@@ -71,5 +71,13 @@
  | Antonio Leiva | <a href="https://twitter.com/lime_cl/">Here</a> | <a href="https://www.youtube.com/channel/UCV31octs5hft6bZmokUgQlA/">Here</a> |  <a href="https://www.instagram.com/antonioleivag/channel/">Here</a> |  <a href="https://www.linkedin.com/in/antoniolg/">Here</a> | <a href="https://github.com/antoniolg/">Here</a> |
  | Chiu-Ki Chan | <a href="https://twitter.com/chiuki/">Here</a> | <a href="https://www.youtube.com/user/chiukichan/">Here</a> |  --- |  <a href="https://www.linkedin.com/learning/instructors/chiu-ki-chan/">Here</a> | <a href="https://github.com/chiuki/">Here</a> |
  
+ ## NB
+ This list is constantly been updated
+ 
+ ## CONNECT [New]
+ 
+ Lets all connect on slack: one workspace for just android related stuffs (jobs, questions, interview preparation e.t.c)
+
+> <a href="https://join.slack.com/t/androiddevelo-g1o8434/shared_invite/zt-109v8bkpw-r8qt1K_ADYJ84CffEB~~HQ"><b>JOIN HERE</b></a> 
  
  
