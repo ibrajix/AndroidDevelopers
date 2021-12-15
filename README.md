@@ -70,7 +70,9 @@
  | Jose Alcérreca | <a href="https://twitter.com/ppvi/">Here</a> | <a href="https://www.youtube.com/c/JoseAlcerreca">Here</a> |  --- |  <a href="https://www.linkedin.com/in/jose-mar%C3%ADa-alc%C3%A9rreca-01490bb/">Here</a> | <a href="https://github.com/JoseAlcerreca/">Here</a> |
  | Antonio Leiva | <a href="https://twitter.com/lime_cl/">Here</a> | <a href="https://www.youtube.com/channel/UCV31octs5hft6bZmokUgQlA/">Here</a> |  <a href="https://www.instagram.com/antonioleivag/channel/">Here</a> |  <a href="https://www.linkedin.com/in/antoniolg/">Here</a> | <a href="https://github.com/antoniolg/">Here</a> |
  | Chiu-Ki Chan | <a href="https://twitter.com/chiuki/">Here</a> | <a href="https://www.youtube.com/user/chiukichan/">Here</a> |  --- |  <a href="https://www.linkedin.com/learning/instructors/chiu-ki-chan/">Here</a> | <a href="https://github.com/chiuki/">Here</a> |
- | Shreyas Patil | <a href="https://twitter.com/imShreyasPatil">Here</a> | --- |  <a href="https://instagram.com/shreyaspatil.dev/">Here</a> |  <a href="https://www.linkedin.com/in/patil-shreyas/">Here</a> | <a href="https://github.com/PatilShreyas">Here</a> |
+ | Shreyas Patil | <a href="https://twitter.com/imShreyasPatil/">Here</a> | --- |  <a href="https://instagram.com/shreyaspatil.dev/">Here</a> |  <a href="https://www.linkedin.com/in/patil-shreyas/">Here</a> | <a href="https://github.com/PatilShreyas">Here</a> |
+ | Moskala Marcin | <a href="https://twitter.com/marcinmoskala/">Here</a> | <a href="https://www.youtube.com/channel/UCaBtEzdM_3cHoHJRUhdM6wg/">Here</a> |  <a href="https://www.instagram.com/marcinmoskala/">Here</a> |  <a href="https://www.linkedin.com/in/marcin-moskala-6869a864/">Here</a> | <a href="https://github.com/MarcinMoskala">Here</a> |
+ 
  
  ## NB
  This list is constantly been updated
