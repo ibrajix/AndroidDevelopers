@@ -71,11 +71,19 @@
  | Antonio Leiva | <a href="https://twitter.com/lime_cl/">Here</a> | <a href="https://www.youtube.com/channel/UCV31octs5hft6bZmokUgQlA/">Here</a> |  <a href="https://www.instagram.com/antonioleivag/channel/">Here</a> |  <a href="https://www.linkedin.com/in/antoniolg/">Here</a> | <a href="https://github.com/antoniolg/">Here</a> |
  | Chiu-Ki Chan | <a href="https://twitter.com/chiuki/">Here</a> | <a href="https://www.youtube.com/user/chiukichan/">Here</a> |  --- |  <a href="https://www.linkedin.com/learning/instructors/chiu-ki-chan/">Here</a> | <a href="https://github.com/chiuki/">Here</a> |
  | Shreyas Patil | <a href="https://twitter.com/imShreyasPatil/">Here</a> | --- |  <a href="https://instagram.com/shreyaspatil.dev/">Here</a> |  <a href="https://www.linkedin.com/in/patil-shreyas/">Here</a> | <a href="https://github.com/PatilShreyas">Here</a> |
- | Moskala Marcin | <a href="https://twitter.com/marcinmoskala/">Here</a> | <a href="https://www.youtube.com/channel/UCaBtEzdM_3cHoHJRUhdM6wg/">Here</a> |  <a href="https://www.instagram.com/marcinmoskala/">Here</a> |  <a href="https://www.linkedin.com/in/marcin-moskala-6869a864/">Here</a> | <a href="https://github.com/MarcinMoskala">Here</a> |
+ | Moskala Marcin | <a href="https://twitter.com/marcinmoskala/">Here</a> | <a href="https://www.youtube.com/channel/UCaBtEzdM_3cHoHJRUhdM6wg/">Here</a> |  <a href="https://www.instagram.com/marcinmoskala/">Here</a> |  <a href="https://www.linkedin.com/in/marcin-moskala-6869a864/">Here</a> | <a href="https://github.com/MarcinMoskala/">Here</a> |
+ |  Rob Joseph | <a href="https://twitter.com/LowCarbRob/">Here</a> | <a href="https://www.youtube.com/channel/UCzUzruoGpC99Zvk_xbupjdw/">Here</a> |  <a href="https://www.instagram.com/lowcarbrob/">Here</a> |  <a href="https://www.linkedin.com/in/therobj/">Here</a> | <a href="https://github.com/iamrobj/">Here</a> |
+ |  Sriyank Siddhartha | <a href="https://twitter.com/sriyanksid/">Here</a> | <a href="https://www.youtube.com/user/smartherd/">Here</a> |  <a href="https://www.instagram.com/sriyank.smartherd/">Here</a> |  <a href="https://www.linkedin.com/in/sriyank/">Here</a> | <a href="https://github.com/smartherd/">Here</a>  |
+ | Josh Skeen | <a href="https://twitter.com/mutexkid/">Here</a> | --- |  <a href="https://www.instagram.com/mutexkid/">Here</a> |  <a href="https://www.linkedin.com/in/joshmskeen/">Here</a> | <a href="https://github.com/mutexkid/">Here</a>  |
+ |  Kaushik Gopal | <a href="https://twitter.com/kaushikgopal/">Here</a> | --- |  <a href="https://www.instagram.com/kaushikgopa/">Here</a> |  <a href="https://www.linkedin.com/in/gopalkaushik/">Here</a> | <a href="https://github.com/kaushikgopal/">Here</a> |
+ | Dmytro Danylyk  | <a href="https://twitter.com/dmytrodanylyk/">Here</a> | <a href="https://www.youtube.com/c/DmytroDanylyk/">Here</a> |  <a href="https://www.instagram.com/dmytrodanylyk/">Here</a> |  <a href="https://www.linkedin.com/in/dmytrodanylyk/">Here</a> | <a href="https://github.com/dmytrodanylyk/">Here</a>  |
+ | Ryan Kay  | <a href="https://twitter.com/wiseAss301/">Here</a> | <a href="https://www.youtube.com/channel/UCSwuCetC3YlO1Y7bqVW5GHg/">Here</a> | --- |  <a href="https://www.linkedin.com/in/ryan-kay-808388114/">Here</a> | <a href="https://github.com/BracketCove/">Here</a>  |
+ 
  
  
  ## NB
  This list is constantly been updated.
+ 
  Submit a PR if I missed out on anyone.
  
  ## CONNECT [NEW]
