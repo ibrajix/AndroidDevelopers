@@ -75,7 +75,8 @@
  
  
  ## NB
- This list is constantly been updated
+ This list is constantly been updated.
+ Submit a PR if I missed out on anyone.
  
  ## CONNECT [NEW]
  
