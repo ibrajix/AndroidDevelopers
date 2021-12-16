@@ -78,7 +78,11 @@
  |  Kaushik Gopal | <a href="https://twitter.com/kaushikgopal/">Here</a> | --- |  <a href="https://www.instagram.com/kaushikgopa/">Here</a> |  <a href="https://www.linkedin.com/in/gopalkaushik/">Here</a> | <a href="https://github.com/kaushikgopal/">Here</a> |
  | Dmytro Danylyk  | <a href="https://twitter.com/dmytrodanylyk/">Here</a> | <a href="https://www.youtube.com/c/DmytroDanylyk/">Here</a> |  <a href="https://www.instagram.com/dmytrodanylyk/">Here</a> |  <a href="https://www.linkedin.com/in/dmytrodanylyk/">Here</a> | <a href="https://github.com/dmytrodanylyk/">Here</a>  |
  | Ryan Kay  | <a href="https://twitter.com/wiseAss301/">Here</a> | <a href="https://www.youtube.com/channel/UCSwuCetC3YlO1Y7bqVW5GHg/">Here</a> | --- |  <a href="https://www.linkedin.com/in/ryan-kay-808388114/">Here</a> | <a href="https://github.com/BracketCove/">Here</a>  |
- 
+ | Sam Edwards | <a href="https://twitter.com/HandstandSam/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/handstandsam/">Here</a> | <a href="https://github.com/handstandsam/">Here</a>  |
+ | Pierre Yves Ricau  | <a href="https://twitter.com/Piwai/">Here</a> | <a href="https://www.youtube.com/playlist?list=UUvwCJCM8z1sPoPwutqe2ABQ">HERE</a> | <a href="https://www.instagram.com/pyyams/">HERE</a> |  <a href="https://www.linkedin.com/in/piwai/">Here</a> | <a href="https://github.com/pyricau/">Here</a>  |
+ | Mike Wolfson | <a href="https://twitter.com/mwolfson/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/mswolfson/">Here</a> | <a href="https://github.com/mwolfson/">Here</a>  |
+ | Kwabena Bio Berko | <a href="https://twitter.com/KwabenaBerko/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/kwabena-bio-berko/">Here</a> | <a href="https://github.com/KwabenBerko/">Here</a>  |
+ | Fred Porciúncula | <a href="https://twitter.com/tfcporciuncula/">Here</a> | --- | --- |  <a href="https://www.linkedin.com/in/tfcporciuncula/">Here</a> | <a href="https://github.com/tfcporciuncula/">Here</a>  |
  
  
  ## NB
